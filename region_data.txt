@@ -1,0 +1,12 @@
+region_id|country_id|name
+1|2| Ontario
+2|2| Quebec
+3|2| Alberta
+4|2| British Columbia
+5|3| Texas
+6|3| California
+7|3| New York
+9|3| New Jersey
+10|1| Jalisco
+11|1| Tabasco
+12|1| Monterrey
