@@ -1,0 +1,15 @@
+sup_id|name|address|country_id|region_id|sales|market_value
+1|Alpek|Ciudad de Mexico 10, Mexico DF|1|10|55|4801
+2|Mexichem|Avenida Insurgentes Sur Mexico DF|1|11|80|3560
+3|Pemex|Paseo Reforma 2000. Mexico DF|1|12|150|575
+4|Suncor Energy|707 8th Avenue SW|2|2|67|2721
+5|Husky Energy|500 Centre Street SE|2|3|77|3112
+6|Cenovus Energy|855 - 2 Street S.W.|2|3|87|519
+7|Canadian Natural Resources|7th Floor 525 – 3 Ave. S.W.|2|3|123|3264
+8|Syncrude Canada|500 Centre Street SE|2|1|150|3477
+9|ExxonMobil|Houston TX 77003|3|5|250|1020
+10|Chevron|Houston TX 77004|3|5|200|1547
+11|Valero|Houston TX 77005|3|5|155|4463
+12|Occidental|San Francisco CA 92001|3|6|43|3712
+13|Phillips 66|San Francisco CA 92002|3|6|30|4015
+14|Royal Shell|Amsterdam|||300|3065
