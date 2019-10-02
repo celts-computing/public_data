@@ -1,0 +1,8 @@
+country_id|name|population|gdp
+1|Mexico|127|1150
+2|Canada|37|1647
+3|United States|329|19485
+5|Italy|60|1943
+6|Russia|145|1578
+4|India|1366|2650
+7|Guatemala|17|75
